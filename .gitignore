@@ -1,6 +1,6 @@
 .dist
 .vscode
 test.m3u8
-.ts
-.mkv
-.mp4
+*.ts
+*.mkv
+*.mp4
